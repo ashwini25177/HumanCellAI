@@ -1,0 +1,8 @@
+pmcid,title,category,source_file,passages_indexed,chunks_created
+PMC7314636,Cell atlas of the foetal human heart and implications for autoimmune-mediated congenital heart block,heart_development,documents\papers\heart_development\fetal_human_heart_cell_atlas.json,39,45
+PMC7780123,A human cell atlas of fetal gene expression,heart_development,documents\papers\heart_development\human_fetal_cell_atlas.json,80,87
+PMC10122433,Integrative single-cell analysis of cardiogenesis identifies developmental trajectories and non-coding mutations in congenital heart disease,heart_development,documents\papers\heart_development\integrative_cardiogenesis.json,150,164
+PMC4122333,Pseudo-temporal ordering of individual cells reveals dynamics and regulators of cell fate decisions,trajectory,documents\papers\trajectory\monocle_pseudotime.json,28,28
+PMC7549125,Characterization of cell fate probabilities in single-cell data with Palantir,trajectory,documents\papers\trajectory\palantir.json,87,90
+PMC6130801,RNA velocity of single cells,trajectory,documents\papers\trajectory\rna_velocity.json,74,84
+PMC6007078,Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics,trajectory,documents\papers\trajectory\slingshot.json,83,89

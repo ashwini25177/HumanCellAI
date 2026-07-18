@@ -1,0 +1,9 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "number_of_vectors": 587,
+  "similarity": "cosine_via_normalized_inner_product",
+  "chunks_file": "data\\processed\\paper_chunks.jsonl",
+  "index_file": "data\\vectorstore\\paper_index.faiss",
+  "records_file": "data\\vectorstore\\paper_chunks.pkl"
+}
